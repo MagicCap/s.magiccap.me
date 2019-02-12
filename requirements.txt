@@ -1,0 +1,5 @@
+pynamodb
+zappa
+flask
+pluginbase
+flask-cors
